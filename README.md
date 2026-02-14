@@ -2,6 +2,8 @@
 
 A [ComfyUI](https://github.com/comfyanonymous/ComfyUI) custom node pack that integrates Meta's [Segment Anything Model (SAM)](https://github.com/facebookresearch/segment-anything) into ComfyUI workflows. Use a bounding box as a visual prompt to generate high-quality segmentation masks from any image.
 
+![이미지 스펙트럼 예시](https://github.com/bemoregt/ComfyUI_SegmentAnything/blob/main/ScrShot%206.png)
+
 ## Nodes
 
 ### SAM Model Loader
