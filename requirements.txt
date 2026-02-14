@@ -1,0 +1,8 @@
+# Segment Anything Model (Meta)
+# pip install git+https://github.com/facebookresearch/segment-anything.git
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git
+
+# 기본 의존성 (ComfyUI 환경에서는 이미 설치되어 있을 가능성이 높음)
+torch
+numpy
+Pillow
